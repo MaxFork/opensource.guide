@@ -92,17 +92,22 @@ If your open source project is a software project, you can probably find your au
 * **Find people experiencing the problem that your project solves.** Search through related forums for people who fall into your project's target audience. Answer their question and find a tactful way, when appropriate, to suggest your project as a solution.
 * **Ask for feedback.** Introduce yourself and your work to an audience that would find it relevant and interesting. Be specific about who you think would benefit from your project. Try to finish the sentence: _"I think my project would really help X, who are trying to do Y_". Listen and respond to others' feedback, rather than simply promoting your work.
 
+
+ * بدانید که پروژه ها و جوامع متن باز متناسب را بدانید. ** گاهی اوقات شما مجبور نیستید پروژه خود را به طور مستقیم ارتقا دهید. اگر پروژه شما برای دانشمندان داده ای که از پایتون استفاده می کنند، مناسب باشد، می توانید از جامعه علمی داده های پایتون مطلع شوید. همانطور که مردم می دانند، فرصت های طبیعی برای صحبت کردن و به اشتراک گذاشتن کار شما بوجود می آیند.
+* * افرادی را پیدا کنید که مشکلی را در پروژه شما حل می کنند  ** جستجو از طریق انجمن های مرتبط برای افرادی که به مخاطبان هدف پروژه شما می آیند. به سوال خود پاسخ دهید و در صورت لزوم راه حلی مناسب برای پیشنهاد پروژه خود را به عنوان یک راه حل پیدا کنید.
+* ** برای بازخورد درخواست کنید. ** خود و کار خود را به یک مخاطب معرفی کنید که آن را مناسب و جالب پیدا کند. در مورد آنچه که فکر می کنید از پروژه شما سود می برید. سعی کنید جمله را به پایان برسانید: _ "من فکر می کنم پروژه من واقعا به برخی افراد کمک خواهد کرد که سعی دارند کاری را در یک موضوعی انجام دهند". بجای صرفا کار کردن و ترویج, به نظرات و سخنان دیگران گوش دهید و به آنها پاسخ و بازخورد نشان دهید. 
+
 به طور کلی، برای کمک به دیگران قبل از درخواست چیزها در مقابل تمرکز کنید. از آنجا که هر کسی به راحتی میتواند یک پروژه را به صورت آنلاین ارتقا بخشد، سر و صدایی زیادی خواهد داشت. برای ایستادن از جمعیت، افراد را از فردی که هستید و چیزی که نمی خواهید توضیح دهید، و نه تنها آنچه که می خواهید.
 
 اگر هیچ کس توجه شما را به خود جلب نمیکند یا به رسالت اولیه خود پاسخ نمیدهد، دلسرد نشوید! اکثر پروژه های راه اندازی یک فرآیندی تکراری می شوند که می تواند ماه ها یا سالها طول بکشد. اگر اولین بار پاسخی را دریافت نکنید، یک تاکتیک دیگر را امتحان کنید، یا به دنبال روش هایی برای اضافه کردن ارزش به کار دیگران باشید. ترویج و راه اندازی پروژه شما زمان و فداکاری طول می کشد.
 
 ## به جایی بروید که مخاطبان پروژه شما هستند (آفلاین)
 
-![Public speaking](/assets/images/finding-users/public_speaking.jpg)
+![سخنرانی عمومی](/assets/images/finding-users/public_speaking.jpg)
 
 رویداد های حضوری یک راه محبوب برای ترویج پروژه های جدید به مخاطبان است. آنها یک راه عالی برای رسیدن به یک مخاطب جذاب و برقراری ارتباط عمیق انسانی هستند، به ویژه اگر شما علاقه مند به رسیدن به توسعه دهندگان هستید.
 
-If you're [new to public speaking](https://speaking.io/), start by finding a local meetup that's related to the language or ecosystem of your project.
+اگر شما [در سخنرانی در محل های عمومی تازه کار هستید] (https://speaking.io/)، با پیدا کردن یک ملاقات محلی که مربوط به موضوع یا اکوسیستم پروژه شما است، شروع کنید.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/jhamrick?s=180" class="pquote-avatar" alt="avatar">
