@@ -74,7 +74,8 @@ If your project is hosted on GitHub, you can use [GitHub Pages](https://pages.gi
 مشارکت آنلاین راه عالی برای به اشتراک گذاشتن و گسترش سریع است. با استفاده از کانال های آنلاین، شما توانایی رسیدن به یک جامعه بسیار وسیع از مخاطب را دارید.
 
 
-Take advantage of existing online communities and platforms to reach your audience. If your open source project is a software project, you can probably find your audience on [Stack Overflow](https://stackoverflow.com/), [Reddit](https://www.reddit.com), [Hacker News](https://news.ycombinator.com/), or [Quora](https://www.quora.com/). Find the channels where you think people will most benefit from or be excited about your work.
+از جامعه های کاربری آنلاین و سیستم های موجود برای رسیدن به مخاطبان خود استفاده کنید.
+If your open source project is a software project, you can probably find your audience on [Stack Overflow](https://stackoverflow.com/), [Reddit](https://www.reddit.com), [Hacker News](https://news.ycombinator.com/), or [Quora](https://www.quora.com/). Find the channels where you think people will most benefit from or be excited about your work.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/pazdera?s=180" class="pquote-avatar" alt="avatar">
@@ -91,9 +92,9 @@ Take advantage of existing online communities and platforms to reach your audien
 * **Find people experiencing the problem that your project solves.** Search through related forums for people who fall into your project's target audience. Answer their question and find a tactful way, when appropriate, to suggest your project as a solution.
 * **Ask for feedback.** Introduce yourself and your work to an audience that would find it relevant and interesting. Be specific about who you think would benefit from your project. Try to finish the sentence: _"I think my project would really help X, who are trying to do Y_". Listen and respond to others' feedback, rather than simply promoting your work.
 
-Generally speaking, focus on helping others before asking for things in return. Because anyone can easily promote a project online, there will be a lot of noise. To stand out from the crowd, give people context for who you are and not just what you want.
+به طور کلی، برای کمک به دیگران قبل از درخواست چیزها در مقابل تمرکز کنید. از آنجا که هر کسی به راحتی میتواند یک پروژه را به صورت آنلاین ارتقا بخشد، سر و صدایی زیادی خواهد داشت. برای ایستادن از جمعیت، افراد را از فردی که هستید و چیزی که نمی خواهید توضیح دهید، و نه تنها آنچه که می خواهید.
 
-If nobody pays attention or responds to your initial outreach, don't get discouraged! Most project launches are an iterative process that can take months or years. If you don't get a response the first time, try a different tactic, or look for ways to add value to others' work first. Promoting and launching your project takes time and dedication.
+اگر هیچ کس توجه شما را به خود جلب نمیکند یا به رسالت اولیه خود پاسخ نمیدهد، دلسرد نشوید! اکثر پروژه های راه اندازی یک فرآیندی تکراری می شوند که می تواند ماه ها یا سالها طول بکشد. اگر اولین بار پاسخی را دریافت نکنید، یک تاکتیک دیگر را امتحان کنید، یا به دنبال روش هایی برای اضافه کردن ارزش به کار دیگران باشید. ترویج و راه اندازی پروژه شما زمان و فداکاری طول می کشد.
 
 ## به جایی بروید که مخاطبان پروژه شما هستند (آفلاین)
 
