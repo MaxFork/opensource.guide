@@ -385,7 +385,7 @@ You've found a project you like, and you're ready to make a contribution. Finall
 
 ### ارتباط موثر
 
-Whether you're a one-time contributor or trying to join a community, working with others is one of the most important skills you'll develop in open source.
+هنگامی که شما فقط یک مشارکت داشته اید یا در حالت تلاش هستید تا به جامعه ها وارد شوید, کار کردن با دیگران یکی از مهم ترین مهارت ها هست که شما آنرا در اوپن سورس توسعه می دهید.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/shubheksha?s=180" class="pquote-avatar" alt="avatar">
@@ -395,7 +395,7 @@ Whether you're a one-time contributor or trying to join a community, working wit
   </p>
 </aside>
 
-Before you open an issue or pull request, or ask a question in chat, keep these points in mind to help your ideas come across effectively.
+قبل از باز کردن یک مسئله جدید یا ارسال درخواست و مشارکت یا پرسیدن سوالی, این نکات را در ذهن داشته باشید تا به ایده هایتان بطور موثر کمک کنید.
 
 **Give context.** Help others get quickly up to speed. If you're running into an error, explain what you're trying to do and how to reproduce it. If you're suggesting a new idea, explain why you think it'd be useful to the project (not just to you!).
 
@@ -435,7 +435,7 @@ Before you open an issue or pull request, or ask a question in chat, keep these 
 
 **Above all, keep it classy.** Open source is made up of collaborators from all over the world. Context gets lost across languages, cultures, geographies, and time zones. In addition, written communication makes it harder to convey a tone or mood. Assume good intentions in these conversations. It's fine to politely push back on an idea, ask for more context, or further clarify your position. Just try to leave the internet a better place than when you found it.
 
-### Gathering context
+### جمع آوری متن
 
 Before doing anything, do a quick check to make sure your idea hasn't been discussed elsewhere. Skim the project's README, issues (open and closed), mailing list, and Stack Overflow. You don't have to spend hours going through everything, but a quick search for a few key terms goes a long way.
 
@@ -465,7 +465,7 @@ You should usually open an issue in the following situations:
 * Discuss a high-level topic or idea (for example, community, vision or policies)
 * Propose a new feature or other project idea
 
-Tips for communicating on issues:
+نکاتی برای ارتباط با افراد در ایجاد مسائل:
 
 * **If you see an open issue that you want to tackle,** comment on the issue to let people know you're on it. That way, people are less likely to duplicate your work.
 * **If an issue was opened a while ago,** it's possible that it's being addressed somewhere else, or has already been resolved, so comment to ask for confirmation before starting work.
@@ -493,9 +493,9 @@ If this is your first pull request, check out [Make a Pull Request](http://makea
 
 ##  اتفاقی بعد از ارسال مشارکت برای یک پروژه رخ می دهد؟
 
-You did it! Congratulations on becoming an open source contributor. We hope it's the first of many.
+توانجامش دادی! تبریک به تبدیل شدن به یک مشارکت کننده منبع باز, ما امیدواریم این فقط اولین دفعه از دفعات زیادی برای شما باشد و آنرا ادامه دهید.
 
-After you submit a contribution, one of the following will happen:
+پس از ارسال مشارکت شما، یکی از موارد زیر اتفاق خواهد افتاد:
 
 ### 😭 شما جوابی دریافت نمی کنید.
 
