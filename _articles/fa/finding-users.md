@@ -33,7 +33,7 @@ related:
 
 ![Cartography README](/assets/images/finding-users/cartography.jpg)
 
-For a deeper dive into messaging, check out Mozilla's ["Personas and Pathways"](https://mozillascience.github.io/working-open-workshop/personas_pathways/) exercise for developing user personas.
+برای غرق شدن عمیق تر در مفهوم و پیام، ["Personas and Pathways"](https://mozillascience.github.io/working-open-workshop/personas_pathways/) موزیلا بهره ببرید.
 
 ## به مردم کمک کنید پروژه شما را پیدا کرده و دنبال کنند
 
@@ -61,9 +61,9 @@ For a deeper dive into messaging, check out Mozilla's ["Personas and Pathways"](
 
 ** در نظر بگیرید برای ایجاد یک وب سایت برای پروژه خود. ** یک وب سایت باعث می شود پروژه خود را دوستانه تر و آسان تر به حرکت، به خصوص هنگامی که آن را با اسناد و آموزش های روشن همراه است. داشتن وب سایت نیز نشان می دهد که پروژه شما فعال است که باعث می شود مخاطبان شما با استفاده از آن راحت تر احساس راحتی کنند. نمونه هایی برای دادن ایده های مردم برای چگونگی استفاده از پروژه خود ارائه دهید.
 
-[@adrianholovaty](https://news.ycombinator.com/item?id=7531689), co-creator of Django, said that a website was _"by far the best thing we did with Django in the early days"_.
+[@adrianholovaty](https://news.ycombinator.com/item?id=7531689), سازنده دی جنگو گفت که یک وبسایت _ "خیلی بیشتر از آنچه که ما در روزهای اولیه انجام دادیم با دی جنگو".
 
-If your project is hosted on GitHub, you can use [GitHub Pages](https://pages.github.com/) to easily make a website. [Yeoman](http://yeoman.io/), [Vagrant](https://www.vagrantup.com/), and [Middleman](https://middlemanapp.com/) are [a few examples](https://github.com/showcases/github-pages-examples) of excellent, comprehensive websites.
+اگر پروژه شما در گیت هاب میزبانی می شود، می توانید از آن استفاده کنید [صفحات گیت هاب](https://pages.github.com/) تا به سادگی وب سایتی ایجاد کنید. [Yeoman](http://yeoman.io/), [Vagrant](https://www.vagrantup.com/) و [Middleman](https://middlemanapp.com/) همگی [a چند نمونه مثال](https://github.com/showcases/github-pages-examples) از وب سایت های عالی و جامع هستند.
 
 ![Vagrant homepage](/assets/images/finding-users/vagrant_homepage.png)
 
@@ -80,7 +80,7 @@ If your open source project is a software project, you can probably find your au
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/pazdera?s=180" class="pquote-avatar" alt="avatar">
-  Each program has very specific functions that only a fraction of users will find useful. Don't spam as many people as possible. Instead, target your efforts to communities that will benefit from knowing about your project.
+  هر برنامه دارای توابع بسیار خاصی است که فقط برای کسری از کاربران مفید خواهد بود. برای هر کسی که ممکن است هرزنامه ننویسید و نگویید. در عوض، تلاش کنید خود را به جوامعی که از دانستن درباره پروژه شما سود می برند، هدف قرار دهید.
   <p markdown="1" class="pquote-credit">
 — @pazdera, ["Marketing for open source projects"](https://radek.io/2015/09/28/marketing-for-open-source-projects-3/)
   </p>
