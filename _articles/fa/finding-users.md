@@ -48,7 +48,7 @@ For a deeper dive into messaging, check out Mozilla's ["Personas and Pathways"](
 
 **Have a clear handle to promote your work.** A Twitter handle, GitHub URL, or IRC channel is an easy way to point people to your project. These outlets also give your project's growing community a place to convene.
 
-If you don't wish to set up outlets for your project yet, promote your own Twitter or GitHub handle in everything you do. Promoting your Twitter or GitHub handle will let people know how to contact you or follow your work. If you speak at a meetup or event, make sure that your contact information is included in your bio or slides. 
+اگر مایل نیستید پروژه هایتان را در رسانه ها راه اندازی و معرفی کنید، ترویج دسته بندی توییتر یا گیت هاب خود را در همه چیز انجام دهید. ترویج دسته توییتر یا گیت هاب به افراد اجازه می دهد تا بدانند چگونه با شما تماس بگیرند یا کار خود را دنبال کنند. اگر در ملاقات یا رویداد صحبت کنید، اطمینان حاصل کنید که اطلاعات تماس شما در معرفی یا اسلایدهای شما موجود است.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/nathanmarz?s=180" class="pquote-avatar" alt="avatar">
@@ -116,7 +116,8 @@ If you're [new to public speaking](https://speaking.io/), start by finding a loc
 
 <aside markdown="1" class="pquote">
   <img src="/assets/images/finding-users/lena.jpg" class="pquote-avatar" alt="avatar">
-  When you start writing your talk, no matter what your topic is, it can help if you see your talk as a story that you tell people.
+  هنگامی که شما شروع به نوشتن سخنرانی خود میکنید، مهم نیست که موضوع شما چیست، نوشتن میتواند به شما کمک کند که صحبتتان را به عنوان داستانی که به مردم میگویید مشاهده کنید.
+  
   <p markdown="1" class="pquote-credit">
 — Lena Reinhard, ["How to Prepare and Write a Tech Conference Talk"](http://wunder.schoenaberselten.com/2016/02/16/how-to-prepare-and-write-a-tech-conference-talk/)
   </p>
@@ -124,7 +125,7 @@ If you're [new to public speaking](https://speaking.io/), start by finding a loc
 
 هنگامی که احساس می کنید آمادگی دارید، در کنفرانس برای تبلیغ پروژه خود صحبت کنید. کنفرانس ها می توانند به شما برای رسیدن به افراد بیشتری کمک کنند، گاهی اوقات از سراسر جهان.
 
-Look for conferences that are specific to your language or ecosystem. Before you submit your talk, research the conference to tailor your talk for attendees and increase your chances of being accepted to speak at the conference. You can often get a sense of your audience by looking at a conference's speakers.
+به دنبال کنفرانس هایی باشید که مخصوص زبان و اکوسیستم شما هستند. قبل از اینکه بحث خود را ارائه دهید، این کنفرانس را به بررسی گفتگوی خود برای شرکت کنندگان بپردازید و شانس خود را برای پذیرفتن سخنرانی در کنفرانس افزایش دهید. شما اغلب می توانید با نگاه کردن به سخنرانان کنفرانس, احساس مخاطبان را درک کنید.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/ry?s=180" class="pquote-avatar" alt="avatar">
