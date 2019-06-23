@@ -27,9 +27,10 @@ related:
   </p>
 </aside>
 
-Contributing to open source can be a rewarding way to learn, teach, and build experience in just about any skill you can imagine.
+مشارکت در منبع باز می تواند راهی جالب برای یادگیری، آموزش، و ایجاد تجربه در مورد هر مهارتی باشد که می توانید تصور کنید.
 
-Why do people contribute to open source? Plenty of reasons!
+چرا مردم به منبع باز کمک می کنند؟ چندین دلیل!
+
 
 ### بهبود مهارت های فعلی شما
 
