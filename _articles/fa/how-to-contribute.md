@@ -31,37 +31,37 @@ Contributing to open source can be a rewarding way to learn, teach, and build ex
 
 Why do people contribute to open source? Plenty of reasons!
 
-### Improve existing skills
+### بهبود مهارت های فعلی شما
 
 Whether it's coding, user interface design, graphic design, writing, or organizing, if you're looking for practice, there's a task for you on an open source project.
 
-### Meet people who are interested in similar things
+### دیدار با افرادی که به چیزهای مشابه با شما علاقه مند هستند
 
 Open source projects with warm, welcoming communities keep people coming back for years. Many people form lifelong friendships through their participation in open source, whether it's running into each other at conferences or late night online chats about burritos.
 
-### Find mentors and teach others
+### مربیان را پیدا کنید و دیگران را آموزش دهید
 
 Working with others on a shared project means you'll have to explain how you do things, as well as ask other people for help. The acts of learning and teaching can be a fulfilling activity for everyone involved.
 
-### Build public artifacts that help you grow a reputation (and a career)
+### ساختن اثرات عمومی که به شهرت و محبوبیت شما کمک می کند (و حرفه ای)
 
-By definition, all of your open source work is public, which means you get free examples to take anywhere as a demonstration of what you can do.
+بر اساس تعریف، تمام کارهای منبع باز شما عمومی است، به این معنی که شما فعالیت های رایگان را به عنوان یک امتیاز از آنچه می توانید انجام دهید، می گیرید.
 
-### Learn people skills
+### یادگیری مهارت های افراد
 
 Open source offers opportunities to practice leadership and management skills, such as resolving conflicts, organizing teams of people, and prioritizing work.
 
-### It's empowering to be able to make changes, even small ones
+### این قدرتی قادر به ایجاد تغییرات است، حتی کوچک است
 
 You don't have to become a lifelong contributor to enjoy participating in open source. Have you ever seen a typo on a website, and wished someone would fix it? On an open source project, you can do just that. Open source helps people feel agency over their lives and how they experience the world, and that in itself is gratifying.
 
-## What it means to contribute
+## چه چیزی به معنی کمک است؟
 
 If you're a new open source contributor, the process can be intimidating. How do you find the right project? What if you don't know how to code? What if something goes wrong?
 
 Not to worry! There are all sorts of ways to get involved with an open source project, and a few tips will help you get the most out of your experience.
 
-### You don't have to contribute code
+### شما مجبور نیستید تا مشارکت و کمک کنید و کد را به اشتراک بگذارید
 
 A common misconception about contributing to open source is that you need to contribute code. In fact, it's often the other parts of a project that are [most neglected or overlooked](https://github.com/blog/2195-the-shape-of-open-source). You'll do the project a _huge_ favor by offering to pitch in with these types of contributions!
 
@@ -173,11 +173,11 @@ That said, many open source projects follow a similar organizational structure. 
 
 A typical open source project has the following types of people:
 
-* **Author:** The person/s or organization that created the project
-* **Owner:** The person/s who has administrative ownership over the organization or repository (not always the same as the original author)
-* **Maintainers:** Contributors who are responsible for driving the vision and managing the organizational aspects of the project. (They may also be authors or owners of the project.)
-* **Contributors:** Everyone who has contributed something back to the project.
-* **Community Members:** People who use the project. They might be active in conversations or express their opinion on the project's direction.
+* **نویسنده:** The person/s or organization that created the project
+* **صاحب:** The person/s who has administrative ownership over the organization or repository (not always the same as the original author)
+* **نگهدارنده ها:** Contributors who are responsible for driving the vision and managing the organizational aspects of the project. (They may also be authors or owners of the project.)
+* **مشارکت کنندگان یا همکاران:** Everyone who has contributed something back to the project.
+* **اعضای جامعه:** People who use the project. They might be active in conversations or express their opinion on the project's direction.
 
 Bigger projects may also have subcommittees or working groups focused on different tasks, such as tooling, triage, community moderation, and event organizing. Look on a project's website for a "team" page, or in the repository for governance documentation, to find this information.
 
@@ -191,8 +191,8 @@ A project also has documentation. These files are usually listed in the top leve
 
 Finally, open source projects use the following tools to organize discussion. Reading through the archives will give you a good picture of how the community thinks and works.
 
-* **Issue tracker:** Where people discuss issues related to the project.
-* **Pull requests:** Where people discuss and review changes that are in progress.
+* **بخش مسئله ها:** Where people discuss issues related to the project.
+* **بخش درخواست ها:** Where people discuss and review changes that are in progress.
 * **Discussion forums or mailing lists:** Some projects may use these channels for conversational topics (for example, _"How do I..."_ or _"What do you think about..."_ instead of bug reports or feature requests). Others use the issue tracker for all conversations.
 * **Synchronous chat channel:** Some projects use chat channels (such as Slack or IRC) for casual conversation, collaboration, and quick exchanges.
 
@@ -216,8 +216,8 @@ You might scan a README and find a broken link or a typo. Or you're a new user a
 
 You can also use one of the following resources to help you discover and contribute to new projects:
 
-* [GitHub Explore](https://github.com/explore/)
-* [Open Source Friday](https://opensourcefriday.com)
+* [کاوش گیت هاب](https://github.com/explore/)
+* [اوپن سورس جمعه](https://opensourcefriday.com)
 * [First Timers Only](https://www.firsttimersonly.com/)
 * [CodeTriage](https://www.codetriage.com/)
 * [24 Pull Requests](https://24pullrequests.com/)
@@ -225,7 +225,7 @@ You can also use one of the following resources to help you discover and contrib
 * [Contributor-ninja](https://contributor.ninja)
 * [First Contributions](https://firstcontributions.github.io)
 
-### A checklist before you contribute
+### یک چک لیست قبل از مشارکت و کمک شد
 
 When you've found a project you'd like to contribute to, do a quick scan to make sure that the project is suitable for accepting contributions. Otherwise, your hard work may never get a response.
 
@@ -265,7 +265,7 @@ Look at the commit activity on the master branch. On GitHub, you can see this in
   </label>
 </div>
 
-Next, look at the project's issues.
+بعد، به مسائل و مشکلات گزارش شده در پروژه نگاه کنید.
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox5" class="d-block float-left mt-1 mr-2" value="checkbox">
@@ -302,7 +302,7 @@ Next, look at the project's issues.
   </label>
 </div>
 
-Now do the same for the project's pull requests.
+حالا برای درخواست های تغییر پروژه هم همان کار را بکنید.
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox10" class="d-block float-left mt-1 mr-2" value="checkbox">
@@ -339,7 +339,7 @@ Now do the same for the project's pull requests.
   </label>
 </div>
 
-**Project is welcoming**
+**پروژه استقبال می کند**
 
 A project that is friendly and welcoming signals that they will be receptive to new contributors.
 
