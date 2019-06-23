@@ -5,11 +5,11 @@ description: به رشد پروژه منبع باز خود کمک کنید با 
 class: finding
 toc:
   spreading-the-word: "توضیح کلمه"
-  figure-out-your-message: "Figure out your message"
-  help-people-find-and-follow-your-project: "Help people find and follow your project"
-  go-where-your-projects-audience-is-online: "Go where your project’s audience is (online)"
-  go-where-your-projects-audience-is-offline: "Go where your project’s audience is (offline)"
-  build-a-reputation: "Build a reputation"
+  figure-out-your-message: "پیام خود را بفهمید"
+  help-people-find-and-follow-your-project: "به مردم کمک کنید پروژه شما را پیدا کرده و دنبال کنید"
+  go-where-your-projects-audience-is-online: "به جایی بروید که مخاطبان پروژه شما هستند (آنلاین)"
+  go-where-your-projects-audience-is-offline: "به جایی بروید که مخاطبان پروژه شما هستند (آفلاین)"
+  build-a-reputation: "شهرت را بساز"
 order: 3
 image: /assets/images/cards/finding.png
 related:
@@ -19,17 +19,17 @@ related:
 
 ## توضیح کلمه
 
-There's no rule that says you have to promote an open source project when you launch. There are many fulfilling reasons to work in open source that have nothing to do with popularity. Instead of hoping others will find and use your open source project, you have to spread the word about your hard work!
+هیچ قانونی وجود ندارد که می گوید شما باید یک پروژه منبع باز را در هنگام راه اندازی تبلیغ کنید. دلایل زیادی برای کار در منبع باز وجود دارد که هیچ ارتباطی با محبوبیت ندارد. به جای اینکه امیدوار باشید دیگران پروژه خود را با منبع باز پیدا کرده و از آن استفاده کنند، شما باید در مورد کار سخت, خود را گسترش دهید.
 
 ## پیام خود را بفهمید
 
-Before you start the actual work of promoting your project, you should be able to explain what it does, and why it matters.
+قبل از اینکه کار واقعی ترویج پروژه خود را شروع کنید، باید بتوانید آنچه را که انجام می دهید توضیح دهید و به همین دلیل مهم است.
 
-What makes your project different or interesting? Why did you create it? Answering these questions for yourself will help you communicate your project's significance.
+چه چیزی پروژه شما را متفاوت یا جالب می کند؟ چرا شما آن را ایجاد کردید؟ پاسخ دادن به این سؤالات برای خودتان به شما کمک می کند که اهمیت پروژه خود را در ارتباطات خود بیان کنید.
 
-Remember that people get involved as users, and eventually become contributors, because your project solves a problem for them. As you think about your project's message and value, try to view them through the lens of what _users and contributors_ might want.
+به یاد داشته باشید که مردم به عنوان کاربران مشغول به کار هستند و در نهایت مشارکت می کنند، زیرا پروژه شما یک مشکل برای آنها حل می کند. همانطور که شما در مورد پیام و ارزش پروژه خود فکر می کنید، سعی کنید کاربران و مشارکت کنندگان را از طریق دوربین ببینید که چه چیزی ممکن است آنرا نیاز داشته باشند یا بخواهند.
 
-For example, @robb uses code examples to clearly communicate why his project, [Cartography](https://github.com/robb/Cartography), is useful:
+برای مثال, فرد @robb از نمونه های کد استفاده کرده است تا روشن سازد که چرا این پروژه کاربردی است, [Cartography](https://github.com/robb/Cartography), کاربردی است:
 
 ![Cartography README](/assets/images/finding-users/cartography.jpg)
 
