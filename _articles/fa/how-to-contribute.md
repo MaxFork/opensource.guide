@@ -4,12 +4,12 @@ title: چگونه در پروژه های منبع باز مشارکت کنیم
 description: می خواهید به پروژه های منبع باز کمک کنید؟ یک راهنما برای مشارکت در پروژه ها برای اولین بار.
 class: contribute
 toc:
-  why-contribute-to-open-source: "Why contribute to open source?"
-  what-it-means-to-contribute: "What it means to contribute"
-  orienting-yourself-to-a-new-project: "Orienting yourself to a new project"
-  finding-a-project-to-contribute-to: "Finding a project to contribute to"
-  how-to-submit-a-contribution: "How to submit a contribution"
-  what-happens-after-you-submit-a-contribution: "What happens after you submit a contribution"
+  why-contribute-to-open-source: "چرا در پروژه های منبع باز مشارکت کنیم؟"
+  what-it-means-to-contribute: "مشارکت کردن یعنی چه؟"
+  orienting-yourself-to-a-new-project: "متصل کردن خودتان به یک پروژه جدید"
+  finding-a-project-to-contribute-to: "پیدا کردن یک پروژه برای مشارکت کردن"
+  how-to-submit-a-contribution: "چگونه مشارکت خود را برای یک پروژه ارسال کنید"
+  what-happens-after-you-submit-a-contribution: "چه اتفاقی بعد از ارسال مشارکت برای یک پروژه رخ می دهد؟"
 order: 1
 image: /assets/images/cards/contribute.png
 related:
