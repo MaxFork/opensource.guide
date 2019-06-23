@@ -98,7 +98,7 @@ If nobody pays attention or responds to your initial outreach, don't get discour
 
 ![Public speaking](/assets/images/finding-users/public_speaking.jpg)
 
-Offline events are a popular way to promote new projects to audiences. They're a great way to reach an engaged audience and build deeper human connections, especially if you are interested in reaching developers.
+رویداد های حضوری یک راه محبوب برای ترویج پروژه های جدید به مخاطبان است. آنها یک راه عالی برای رسیدن به یک مخاطب جذاب و برقراری ارتباط عمیق انسانی هستند، به ویژه اگر شما علاقه مند به رسیدن به توسعه دهندگان هستید.
 
 If you're [new to public speaking](https://speaking.io/), start by finding a local meetup that's related to the language or ecosystem of your project.
 
@@ -110,9 +110,9 @@ If you're [new to public speaking](https://speaking.io/), start by finding a loc
   </p>
 </aside>
 
-If you've never spoken at an event before, it's perfectly normal to feel nervous! Remember that your audience is there because they genuinely want to hear about your work.
+اگر قبلا هرگز در یک رویداد صحبت نکردید، کاملا طبیعی است که احساس عصبی کنید! به یاد داشته باشید مخاطبان شما وجود دارد زیرا آنها واقعا می خواهند در مورد کار شما بشنوند.
 
-As you write your talk, focus on what your audience will find interesting and get value out of. Keep your language friendly and approachable. Smile, breathe, and have fun.
+همانطور که متن گفتگو را می نویسید، تمرکز خود را بر مواردی قرار دهید که برای مخاطبان جالب و ارزشمند است. زبان خود را دوستانه و قابل دسترس نگه دارید لبخند، نفس کشیدن و لذت بردن.
 
 <aside markdown="1" class="pquote">
   <img src="/assets/images/finding-users/lena.jpg" class="pquote-avatar" alt="avatar">
@@ -122,7 +122,7 @@ As you write your talk, focus on what your audience will find interesting and ge
   </p>
 </aside>
 
-When you feel ready, consider speaking at a conference to promote your project. Conferences can help you reach more people, sometimes from all over the world.
+هنگامی که احساس می کنید آمادگی دارید، در کنفرانس برای تبلیغ پروژه خود صحبت کنید. کنفرانس ها می توانند به شما برای رسیدن به افراد بیشتری کمک کنند، گاهی اوقات از سراسر جهان.
 
 Look for conferences that are specific to your language or ecosystem. Before you submit your talk, research the conference to tailor your talk for attendees and increase your chances of being accepted to speak at the conference. You can often get a sense of your audience by looking at a conference's speakers.
 
@@ -136,9 +136,9 @@ Look for conferences that are specific to your language or ecosystem. Before you
 
 ## شهرت را بساز
 
-In addition to the strategies outlined above, the best way to invite people to share and contribute to your project is to share and contribute to their projects.
+علاوه بر استراتژیهایی که در بالا ذکر شده است، بهترین راه برای دعوت از مردم برای به اشتراک گذاشتن و کمک به پروژه شما، به اشتراک گذاشتن و کمک به پروژه های آنها است.
 
-Helping newcomers, sharing resources, and making thoughtful contributions to others' projects will help you build a positive reputation. Being an active member in the open source community will help people have context for your work and be more likely to pay attention to and share your project. Developing relationships with other open source projects can even lead to official partnerships.
+کمک به تازه واردین، به اشتراک گذاری منابع و ایجاد مشارکت متفکرانه در پروژه های دیگر کمک خواهد کرد که شهرت مثبت ایجاد کنید. عضو فعال در جامعه منبع باز کمک خواهد کرد که افراد دارای زمینه برای کار شما باشند و احتمال بیشتری برای توجه به پروژه و به اشتراک گذاری آن داشته باشند. توسعه روابط با دیگر پروژه های منبع باز حتی می تواند منجر به مشارکت رسمی شود.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/shazow?s=180" class="pquote-avatar" alt="avatar">
@@ -148,9 +148,9 @@ Helping newcomers, sharing resources, and making thoughtful contributions to oth
   </p>
 </aside>
 
-It's never too early, or too late, to start building your reputation. Even if you've launched your own project already, continue to look for ways to help others.
+هرگز خیلی زود و یا خیلی دیر نیست که شهرت خود را بسازید. حتی اگر شما پروژه خود را در حال حاضر راه اندازی کرده اید، همچنان به دنبال راهی برای کمک به دیگران هستیم.
 
-There is no overnight solution to building an audience. Gaining the trust and respect of others takes time, and building your reputation never ends.
+هیچ راه حلی برای ساخت یک مخاطب وجود ندارد. به دست آوردن اعتماد و احترام به دیگران زمان می برد، و ایجاد شهرت خود هرگز به پایان نمی رسد.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/ariya?s=180" class="pquote-avatar" alt="avatar">
