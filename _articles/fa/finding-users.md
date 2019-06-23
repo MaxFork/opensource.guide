@@ -1,10 +1,10 @@
 ---
 lang: en
-title: Finding Users for Your Project
-description: Help your open source project grow by getting it in the hands of happy users.
+title: پیدا کردن کاربران برای پروژه شما
+description: به رشد پروژه منبع باز خود کمک کنید با دست کاربران خوشحال.
 class: finding
 toc:
-  spreading-the-word: "Spreading the word"
+  spreading-the-word: "توضیح کلمه"
   figure-out-your-message: "Figure out your message"
   help-people-find-and-follow-your-project: "Help people find and follow your project"
   go-where-your-projects-audience-is-online: "Go where your project’s audience is (online)"
@@ -17,11 +17,11 @@ related:
   - building
 ---
 
-## Spreading the word
+## توضیح کلمه
 
 There's no rule that says you have to promote an open source project when you launch. There are many fulfilling reasons to work in open source that have nothing to do with popularity. Instead of hoping others will find and use your open source project, you have to spread the word about your hard work!
 
-## Figure out your message
+## پیام خود را بفهمید
 
 Before you start the actual work of promoting your project, you should be able to explain what it does, and why it matters.
 
@@ -35,7 +35,7 @@ For example, @robb uses code examples to clearly communicate why his project, [C
 
 For a deeper dive into messaging, check out Mozilla's ["Personas and Pathways"](https://mozillascience.github.io/working-open-workshop/personas_pathways/) exercise for developing user personas.
 
-## Help people find and follow your project
+## به مردم کمک کنید پروژه شما را پیدا کرده و دنبال کنند
 
 <aside markdown="1" class="pquote">
   You ideally need a single "home" URL that you can promote and point people to in relation to your project. You don't need to splash out on a fancy template or even a domain name, but your project needs a focal point.
@@ -44,7 +44,7 @@ For a deeper dive into messaging, check out Mozilla's ["Personas and Pathways"](
   </p>
 </aside>
 
-Help people find and remember your project by pointing them to a single namespace.
+کمک به مردم برای پیدا کردن و به یاد آوردن پروژه شما با اشاره کردن آنها به یک فضای واحد.
 
 **Have a clear handle to promote your work.** A Twitter handle, GitHub URL, or IRC channel is an easy way to point people to your project. These outlets also give your project's growing community a place to convene.
 
@@ -68,9 +68,10 @@ If your project is hosted on GitHub, you can use [GitHub Pages](https://pages.gi
 
 Now that you have a message for your project, and an easy way for people to find your project, let's get out there and talk to your audience!
 
-## Go where your project's audience is (online)
+## به جایی بروید که مخاطبان پروژه شما هستند (آنلاین)
 
-Online outreach is a great way to share and spread the word quickly. Using online channels, you have the potential to reach a very wide audience.
+مشارکت آنلاین راه عالی برای به اشتراک گذاشتن و گسترش سریع است. با استفاده از کانال های آنلاین، شما توانایی رسیدن به یک جامعه بسیار وسیع از مخاطب را دارید.
+
 
 Take advantage of existing online communities and platforms to reach your audience. If your open source project is a software project, you can probably find your audience on [Stack Overflow](https://stackoverflow.com/), [Reddit](https://www.reddit.com), [Hacker News](https://news.ycombinator.com/), or [Quora](https://www.quora.com/). Find the channels where you think people will most benefit from or be excited about your work.
 
@@ -82,7 +83,8 @@ Take advantage of existing online communities and platforms to reach your audien
   </p>
 </aside>
 
-See if you can find ways to share your project in relevant ways:
+ببینید اگر شما می توانید راه هایی برای به اشتراک گذاشتن پروژه خود پیدا کنید:
+
 
 * **Get to know relevant open source projects and communities.** Sometimes, you don't have to directly promote your project. If your project is perfect for data scientists who use Python, get to know the Python data science community. As people get to know you, natural opportunities will arise to talk about and share your work.
 * **Find people experiencing the problem that your project solves.** Search through related forums for people who fall into your project's target audience. Answer their question and find a tactful way, when appropriate, to suggest your project as a solution.
@@ -92,7 +94,7 @@ Generally speaking, focus on helping others before asking for things in return. 
 
 If nobody pays attention or responds to your initial outreach, don't get discouraged! Most project launches are an iterative process that can take months or years. If you don't get a response the first time, try a different tactic, or look for ways to add value to others' work first. Promoting and launching your project takes time and dedication.
 
-## Go where your project's audience is (offline)
+## به جایی بروید که مخاطبان پروژه شما هستند (آفلاین)
 
 ![Public speaking](/assets/images/finding-users/public_speaking.jpg)
 
@@ -132,7 +134,7 @@ Look for conferences that are specific to your language or ecosystem. Before you
   </p>
 </aside>
 
-## Build a reputation
+## شهرت را بساز
 
 In addition to the strategies outlined above, the best way to invite people to share and contribute to your project is to share and contribute to their projects.
 
@@ -158,6 +160,6 @@ There is no overnight solution to building an audience. Gaining the trust and re
   </p>
 </aside>
 
-## Keep at it!
+## صبور باشید و عجله نکنید
 
-It may take a long time before people notice your open source project. That's okay! Some of the most popular projects today took years to reach high levels of activity. Focus on building relationships instead of hoping that your project will spontaneously gain popularity. Be patient, and keep sharing your work with those who appreciate it.
+ممکن است زمان زیادی بگذرد تا مردم متوجه پروژه منبع باز شما شوند. درست است امروزه برخی از محبوب ترین پروژه ها سال ها برای رسیدن به سطح بالایی از فعالیت ها به طول انجامید. به جای امید به این که پروژه خود به خودی خود به محبوبیت برسد، روی ایجاد روابط تمرکز کنید. صبور باشید و همکاری خود را با کسانی که از آن قدردانی می کنند، به اشتراک بگذارید.
