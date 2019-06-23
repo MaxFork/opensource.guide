@@ -66,7 +66,8 @@ If your project is hosted on GitHub, you can use [GitHub Pages](https://pages.gi
 
 ![Vagrant homepage](/assets/images/finding-users/vagrant_homepage.png)
 
-Now that you have a message for your project, and an easy way for people to find your project, let's get out there and talk to your audience!
+اکنون که شما پیامی برای پروژه خود دارید و راه آسان برای مردم تا پروژه شما را پیدا کنند، بیایید بیرون برویم و با مخاطبان خود صحبت کنیم!
+
 
 ## به جایی بروید که مخاطبان پروژه شما هستند (آنلاین)
 
@@ -129,7 +130,8 @@ If you're [new to public speaking](https://speaking.io/), start by finding a loc
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/ry?s=180" class="pquote-avatar" alt="avatar">
-  I wrote very nicely to the JSConf people and begged them to give me a slot where I could present it at JSConf EU. (...) I was extremely scared, presenting this thing that I had been working on for six months. (...) The whole time I was just thinking, oh my God. What am I doing here?
+  I wrote very nicely to the JSConf people and begged them to give me a slot where I could present it at JSConf EU. (...)   من به شدت ترسیدم، چیزی را نشان می دادم که بر روی آن شش ماه کار میکردم. (...)   تمام وقت من فقط فکر میکردم، خدای من. من اینجا چه کار میکنم؟
+ 
   <p markdown="1" class="pquote-credit">
 — @ry, ["History of Node.js" (video)](https://www.youtube.com/watch?v=SAc0vQCC6UQ&t=24m57s)
   </p>
@@ -143,7 +145,6 @@ If you're [new to public speaking](https://speaking.io/), start by finding a loc
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/shazow?s=180" class="pquote-avatar" alt="avatar">
-  The only reason urllib3 is the most popular third-party Python library today is because it's part of requests.
   تنها دلیلی که urllib3 محبوب ترین کتابخانه جداگانه برای پایتون است, زیرا این یک نیاز و درخواست مردمی بود.
   <p markdown="1" class="pquote-credit">
 — @shazow, ["How to make your open source project thrive"](https://about.sourcegraph.com/blog/how-to-make-your-open-source-project-thrive-with-andrey-petrov/)
