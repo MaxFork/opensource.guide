@@ -52,7 +52,7 @@ For a deeper dive into messaging, check out Mozilla's ["Personas and Pathways"](
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/nathanmarz?s=180" class="pquote-avatar" alt="avatar">
-  A mistake I made in those early days (...) was not starting a Twitter account for the project. Twitter's a great way to keep people up to date about a project as well as constantly expose people to the project.
+  اشتباهی که در آن روزهای اولیه انجام دادم (...) حساب کاربری توییتر برای این پروژه را شروع نکردم. توییتر یک راه عالی برای نگه داشتن مردم در مورد پروژه است و همچنین به طور دائم در معرض افراد به پروژه است.
   <p markdown="1" class="pquote-credit">
 — @nathanmarz, ["History of Apache Storm and Lessons Learned"](http://nathanmarz.com/blog/history-of-apache-storm-and-lessons-learned.html)
   </p>
