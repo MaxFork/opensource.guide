@@ -46,7 +46,8 @@ For a deeper dive into messaging, check out Mozilla's ["Personas and Pathways"](
 
 کمک به مردم برای پیدا کردن و به یاد آوردن پروژه شما با اشاره کردن آنها به یک فضای واحد.
 
-**Have a clear handle to promote your work.** A Twitter handle, GitHub URL, or IRC channel is an easy way to point people to your project. These outlets also give your project's growing community a place to convene.
+** یک دسته واضح برای ترویج کار خود داشته باشید. ** دسته ی توییتر، گیت هاب یا کانال IRC یک راه آسان برای اشاره به مردم به پروژه شما است. این رسانه ها همچنین جامعه رو به رشد پروژه شما را برای برگزاری مسابقات فراهم می کنند.
+
 
 اگر مایل نیستید پروژه هایتان را در رسانه ها راه اندازی و معرفی کنید، ترویج دسته بندی توییتر یا گیت هاب خود را در همه چیز انجام دهید. ترویج دسته توییتر یا گیت هاب به افراد اجازه می دهد تا بدانند چگونه با شما تماس بگیرند یا کار خود را دنبال کنند. اگر در ملاقات یا رویداد صحبت کنید، اطمینان حاصل کنید که اطلاعات تماس شما در معرفی یا اسلایدهای شما موجود است.
 
@@ -58,7 +59,7 @@ For a deeper dive into messaging, check out Mozilla's ["Personas and Pathways"](
   </p>
 </aside>
 
-**Consider creating a website for your project.** A website makes your project friendlier and easier to navigate, especially when it's paired with clear documentation and tutorials. Having a website also suggests that your project is active which will make your audience feel more comfortable using it. Provide examples to give people ideas for how to use your project.
+** در نظر بگیرید برای ایجاد یک وب سایت برای پروژه خود. ** یک وب سایت باعث می شود پروژه خود را دوستانه تر و آسان تر به حرکت، به خصوص هنگامی که آن را با اسناد و آموزش های روشن همراه است. داشتن وب سایت نیز نشان می دهد که پروژه شما فعال است که باعث می شود مخاطبان شما با استفاده از آن راحت تر احساس راحتی کنند. نمونه هایی برای دادن ایده های مردم برای چگونگی استفاده از پروژه خود ارائه دهید.
 
 [@adrianholovaty](https://news.ycombinator.com/item?id=7531689), co-creator of Django, said that a website was _"by far the best thing we did with Django in the early days"_.
 
@@ -86,12 +87,6 @@ If your open source project is a software project, you can probably find your au
 </aside>
 
 ببینید اگر شما می توانید راه هایی برای به اشتراک گذاشتن پروژه خود پیدا کنید:
-
-
-* **Get to know relevant open source projects and communities.** Sometimes, you don't have to directly promote your project. If your project is perfect for data scientists who use Python, get to know the Python data science community. As people get to know you, natural opportunities will arise to talk about and share your work.
-* **Find people experiencing the problem that your project solves.** Search through related forums for people who fall into your project's target audience. Answer their question and find a tactful way, when appropriate, to suggest your project as a solution.
-* **Ask for feedback.** Introduce yourself and your work to an audience that would find it relevant and interesting. Be specific about who you think would benefit from your project. Try to finish the sentence: _"I think my project would really help X, who are trying to do Y_". Listen and respond to others' feedback, rather than simply promoting your work.
-
 
  * بدانید که پروژه ها و جوامع متن باز متناسب را بدانید. ** گاهی اوقات شما مجبور نیستید پروژه خود را به طور مستقیم ارتقا دهید. اگر پروژه شما برای دانشمندان داده ای که از پایتون استفاده می کنند، مناسب باشد، می توانید از جامعه علمی داده های پایتون مطلع شوید. همانطور که مردم می دانند، فرصت های طبیعی برای صحبت کردن و به اشتراک گذاشتن کار شما بوجود می آیند.
 * * افرادی را پیدا کنید که مشکلی را در پروژه شما حل می کنند  ** جستجو از طریق انجمن های مرتبط برای افرادی که به مخاطبان هدف پروژه شما می آیند. به سوال خود پاسخ دهید و در صورت لزوم راه حلی مناسب برای پیشنهاد پروژه خود را به عنوان یک راه حل پیدا کنید.
