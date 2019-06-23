@@ -144,6 +144,7 @@ If you're [new to public speaking](https://speaking.io/), start by finding a loc
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/shazow?s=180" class="pquote-avatar" alt="avatar">
   The only reason urllib3 is the most popular third-party Python library today is because it's part of requests.
+  تنها دلیلی که urllib3 محبوب ترین کتابخانه جداگانه برای پایتون است, زیرا این یک نیاز و درخواست مردمی بود.
   <p markdown="1" class="pquote-credit">
 — @shazow, ["How to make your open source project thrive"](https://about.sourcegraph.com/blog/how-to-make-your-open-source-project-thrive-with-andrey-petrov/)
   </p>
@@ -155,7 +156,7 @@ If you're [new to public speaking](https://speaking.io/), start by finding a loc
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/ariya?s=180" class="pquote-avatar" alt="avatar">
-  PhantomJS was released for the first time in the beginning of 2011. (...) I spread the word in the usual ways: I tweeted about it, I wrote blog posts on things you could do with it, I mentioned it during various discussions in meetups. When it became more well known in 2014, I started giving presentations about it.
+  PhantomJS برای اولین بار در ابتدای سال 2011 منتشر شد. (...) این موضوع را به روشهای معمول بیان می کنم: در مورد آن توییت کردم، نوشتن مطالبی در وبلاگ در مورد چیزهایی که می توانستم با آن انجام دهم، در بحث های مختلف ذکر کردم در سایت "ملاقات ها" هنگامی که در سال 2014 بیشتر شناخته شد، من شروع به ارائه سخنرانی در مورد آن کردم.
   <p markdown="1" class="pquote-credit">
 — @ariya, ["Maintainer Stories"](https://github.com/open-source/stories/ariya)
   </p>
