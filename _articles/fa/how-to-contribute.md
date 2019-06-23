@@ -228,7 +228,7 @@ You can also use one of the following resources to help you discover and contrib
 
 ### یک چک لیست قبل از مشارکت و کمک شد
 
-When you've found a project you'd like to contribute to, do a quick scan to make sure that the project is suitable for accepting contributions. Otherwise, your hard work may never get a response.
+هنگامی که شما یک پروژه را که می خواهید به آن کمک کنید را پیدا کرده اید، یک بررسی و نگاهی سریع برای اطمینان از اینکه پروژه مناسب برای پذیرش مشارکت است یا نه انجام دهید. در غیر این صورت، کار شما ممکن است مقداری سخت شود و هرگز پاسخی دریافت نکنید.
 
 در اینجا یک لیست پیشنهادی برای ارزیابی اینکه آیا یک پروژه برای شرکت کنندگان جدید مفید است یا خیر.
 
@@ -243,26 +243,26 @@ When you've found a project you'd like to contribute to, do a quick scan to make
 
 **Project actively accepts contributions**
 
-Look at the commit activity on the master branch. On GitHub, you can see this information on a repository's homepage.
+به لیست و زمان فعالیت ها(کامیت ها) نگاه کنید. در گیت هاب می توانید این اطلاعات را در یک صفحه اصلی مخزن مشاهده کنید.
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox2" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox2" class="overflow-hidden d-block text-normal">
-  When was the latest commit?
+  آخرین کامیت و تغییر چه زمانی بود است؟
   </label>
 </div>
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox3" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox3" class="overflow-hidden d-block text-normal">
-  How many contributors does the project have?
+  این پروژه چه تعداد شرکت کننده و مشارکت کننده دارد؟
   </label>
 </div>
 
 <div class="clearfix mb-4">
   <input type="checkbox" id="cbox4" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox4" class="overflow-hidden d-block text-normal">
-  How often do people commit? (On GitHub, you can find this by clicking "Commits" in the top bar.)
+    چقدر مردم در تغییر و ارسال کامیت فعالیت دارند؟ (در گیت هاب می توانید این را با کلیک کردن بر روی "کامیت ها" در نوار بالا پیدا کنید.)
   </label>
 </div>
 
@@ -271,28 +271,28 @@ Look at the commit activity on the master branch. On GitHub, you can see this in
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox5" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox5" class="overflow-hidden d-block text-normal">
-    How many open issues are there?
+    چندین مساله باز در مخزن وجود دارد؟
   </label>
 </div>
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox6" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox6" class="overflow-hidden d-block text-normal">
-    Do maintainers respond quickly to issues when they are opened?
+    آیا نگهبانان در هنگام ایجاد یک مساله جدید سریعا به آنها پاسخ یا واکنشی می دهند؟
   </label>
 </div>
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox7" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox7" class="overflow-hidden d-block text-normal">
-    Is there active discussion on the issues?
+    آیا فضایی فعال برای بحث و گفتگو در مورد مسائل و پروژه وجود دارد؟
   </label>
 </div>
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox8" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox8" class="overflow-hidden d-block text-normal">
-    Are the issues recent?
+    آیا اخیرا مشکل و مسئله ای مطرح شده است یا وجود دارد؟
   </label>
 </div>
 
@@ -315,7 +315,7 @@ Look at the commit activity on the master branch. On GitHub, you can see this in
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox20" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox20" class="overflow-hidden d-block text-normal">
-    Do maintainers respond quickly to pull requests when they are opened?
+    آیا نگهبانان در هنگام ایجاد یک مشارکت و تغییر کد, سریع پاسخ می دهند؟
   </label>
 </div>
 
@@ -323,13 +323,14 @@ Look at the commit activity on the master branch. On GitHub, you can see this in
   <input type="checkbox" id="cbox11" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox11" class="overflow-hidden d-block text-normal">
     Is there active discussion on the pull requests?
+    آیا فضایی فعال برای بحث و گفتگو در مورد درخواست تغییر و مشارکت ها در پروژه وجود دارد؟
   </label>
 </div>
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox12" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox12" class="overflow-hidden d-block text-normal">
-    Are the pull requests recent?
+    آیا اخیرا درخواست تغییری یا مشارکتی وجود دارد؟
   </label>
 </div>
 
