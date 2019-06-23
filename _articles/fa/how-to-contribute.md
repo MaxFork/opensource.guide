@@ -83,26 +83,26 @@ Even if you like to write code, other types of contributions are a great way to 
   </p>
 </aside>
 
-### Do you like planning events?
+### آیا برنامه ریزی رویداد ها را دوست دارید؟
 
-* Organize workshops or meetups about the project, [like @fzamperin did for NodeSchool](https://github.com/nodeschool/organizers/issues/406)
-* Organize the project's conference (if they have one)
-* Help community members find the right conferences and submit proposals for speaking
+* سازماندهی و مدیریت یک کارگاه یا نشست افراد در مورد پروژه, [مانند @fzamperin که برای NodeSchool اینکار را انجام داده است.](https://github.com/nodeschool/organizers/issues/406)  
+* سازماندهی کنفرانس برای پروژه (اگر آنها یک)
+* پیدا کردن و معرفی کنفرانس های مناسب به اعضای جامعه و پیشنهاد موضوع برای صحبت کردن 
 
 ### آیا شما علاقه مند به انجام کار های گرافیکی و طراحی هستید؟
 
-* Restructure layouts to improve the project's usability
+* بازسازی طرح ها برای بهبود قابلیت استفاده از پروژه
 * Conduct user research to reorganize and refine the project's navigation or menus, [like Drupal suggests](https://www.drupal.org/community-initiatives/drupal-core/usability)
-* Put together a style guide to help the project have a consistent visual design
+* یک راهنمای سبک را برای کمک به طراحی یک طرح بصری قرار دهید
 * Create art for t-shirts or a new logo, [like hapi.js's contributors did](https://github.com/hapijs/contrib/issues/68)
 
 ### آیا شما علاقه مند به نوشتن و نویسندگی هستید؟
 
-* Write and improve the project's documentation
-* Curate a folder of examples showing how the project is used
-* Start a newsletter for the project, or curate highlights from the mailing list
-* Write tutorials for the project, [like PyPA's contributors did](https://github.com/pypa/python-packaging-user-guide/issues/194)
-* Write a translation for the project's documentation
+* نوشتن و بهبود مهارت کار بر روی مستندات پروژه
+* پوشه ای از نمونه هایی که نشان می دهد چگونه از این پروژه استفاده می شود
+* یک خبرنامه برای این پروژه ایجاد کنید، یا از ایمیل لیست ها که برجسته شده است
+* نوشتن آموزش برای پروژه, [مانند کاری که مشارکت کنندگان PyPA انجام داده اند.](https://github.com/pypa/python-packaging-user-guide/issues/194)
+* یک ترجمه برای اسناد پروژه بنویسید
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/kittens?s=180" class="pquote-avatar" alt="avatar">
