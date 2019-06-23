@@ -17,7 +17,7 @@ related:
   - building
 ---
 
-## Why contribute to open source?
+## چرا در پروژه های منبع باز مشارکت کنیم؟
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/errietta?s=180" class="pquote-avatar" alt="avatar">
@@ -89,14 +89,14 @@ Even if you like to write code, other types of contributions are a great way to 
 * Organize the project's conference (if they have one)
 * Help community members find the right conferences and submit proposals for speaking
 
-### Do you like to design?
+### آیا شما علاقه مند به انجام کار های گرافیکی و طراحی هستید؟
 
 * Restructure layouts to improve the project's usability
 * Conduct user research to reorganize and refine the project's navigation or menus, [like Drupal suggests](https://www.drupal.org/community-initiatives/drupal-core/usability)
 * Put together a style guide to help the project have a consistent visual design
 * Create art for t-shirts or a new logo, [like hapi.js's contributors did](https://github.com/hapijs/contrib/issues/68)
 
-### Do you like to write?
+### آیا شما علاقه مند به نوشتن و نویسندگی هستید؟
 
 * Write and improve the project's documentation
 * Curate a folder of examples showing how the project is used
@@ -112,36 +112,36 @@ Even if you like to write code, other types of contributions are a great way to 
   </p>
 </aside>
 
-### Do you like organizing?
+### آیا شما به سازماندهی کار ها علاقه دارید؟
 
 * Link to duplicate issues, and suggest new issue labels, to keep things organized
 * Go through open issues and suggest closing old ones, [like @nzakas did for ESLint](https://github.com/eslint/eslint/issues/6765)
 * Ask clarifying questions on recently opened issues to move the discussion forward
 
-### Do you like to code?
+### آیا شما علاقه دارید تا کد بنویسید؟
 
 * Find an open issue to tackle, [like @dianjin did for Leaflet](https://github.com/Leaflet/Leaflet/issues/4528#issuecomment-216520560)
 * Ask if you can help write a new feature
 * Automate project setup
 * Improve tooling and testing
 
-### Do you like helping people?
+### آیا شما به کمک به مردم علاقه دارید؟
 
 * Answer questions about the project on e.g., Stack Overflow ([like this Postgres example](https://stackoverflow.com/questions/18664074/getting-error-peer-authentication-failed-for-user-postgres-when-trying-to-ge)) or Reddit
 * Answer questions for people on open issues
 * Help moderate the discussion boards or conversation channels
 
-### Do you like helping others code?
+### آیا شما علاقه مند به کمک در کد های دیگران هستید؟
 
 * Review code on other people's submissions
 * Write tutorials for how a project can be used
 * Offer to mentor another contributor, [like @ereichert did for @bronzdoc on Rust](https://github.com/rust-lang/book/issues/123#issuecomment-238049666)
 
-### You don't just have to work on software projects!
+### شما فقط باید در پروژه های نرم افزاری کار کنید!
 
 While "open source" often refers to software, you can collaborate on just about anything. There are books, recipes, lists, and classes that get developed as open source projects.
 
-For example:
+برای مثال:
 
 * @sindresorhus curates a [list of "awesome" lists](https://github.com/sindresorhus/awesome)
 * @h5bp maintains a [list of potential interview questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions) for front-end developer candidates
@@ -149,7 +149,7 @@ For example:
 
 Even if you're a software developer, working on a documentation project can help you get started in open source. It's often less intimidating to work on projects that don't involve code, and the process of collaboration will build your confidence and experience.
 
-## Orienting yourself to a new project
+## متصل کردن خودتان به یک پروژه جدید
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/shaunagm?s=180" class="pquote-avatar" alt="avatar">
@@ -163,9 +163,9 @@ For anything more than a typo fix, contributing to open source is like walking u
 
 Before jumping in blindly with your own suggestions, start by learning how to read the room. Doing so increases the chances that your ideas will be noticed and heard.
 
-### Anatomy of an open source project
+### آناتومی و ساختار یک پروژه منبع باز
 
-Every open source community is different.
+هر پروژه منبع باز متفاوت است.
 
 Spending years on one open source project means you've gotten to know one open source project. Move to a different project, and you might find the vocabulary, norms, and communication styles are completely different.
 
@@ -196,7 +196,7 @@ Finally, open source projects use the following tools to organize discussion. Re
 * **Discussion forums or mailing lists:** Some projects may use these channels for conversational topics (for example, _"How do I..."_ or _"What do you think about..."_ instead of bug reports or feature requests). Others use the issue tracker for all conversations.
 * **Synchronous chat channel:** Some projects use chat channels (such as Slack or IRC) for casual conversation, collaboration, and quick exchanges.
 
-## Finding a project to contribute to
+## پیدا کردن یک پروژه برای مشارکت کردن
 
 Now that you've figured out how open source projects work, it's time to find a project to contribute to!
 
@@ -379,11 +379,11 @@ A project that is friendly and welcoming signals that they will be receptive to 
   </p>
 </aside>
 
-## How to submit a contribution
+## چگونه مشارکت خود را برای یک پروژه ارسال کنید
 
 You've found a project you like, and you're ready to make a contribution. Finally! Here's how to get your contribution in the right way.
 
-### Communicating effectively
+### ارتباط موثر
 
 Whether you're a one-time contributor or trying to join a community, working with others is one of the most important skills you'll develop in open source.
 
@@ -457,7 +457,7 @@ If you want to make a substantial contribution, open an issue to ask before work
   </p>
 </aside>
 
-### Opening an issue
+### افتتاح یک مسئله
 
 You should usually open an issue in the following situations:
 
@@ -471,7 +471,7 @@ Tips for communicating on issues:
 * **If an issue was opened a while ago,** it's possible that it's being addressed somewhere else, or has already been resolved, so comment to ask for confirmation before starting work.
 * **If you opened an issue, but figured out the answer later on your own,** comment on the issue to let people know, then close the issue. Even documenting that outcome is a contribution to the project.
 
-### Opening a pull request
+### باز کردن درخواست تغییر
 
 You should usually open a pull request in the following situations:
 
@@ -491,13 +491,13 @@ If the project is on GitHub, here's how to submit a pull request:
 
 If this is your first pull request, check out [Make a Pull Request](http://makeapullrequest.com/), which @kentcdodds created as a walkthrough video tutorial. You can also practice making a pull request in the [First Contributions](https://github.com/Roshanjossey/first-contributions) repository, created by @Roshanjossey.
 
-## What happens after you submit a contribution
+##  اتفاقی بعد از ارسال مشارکت برای یک پروژه رخ می دهد؟
 
 You did it! Congratulations on becoming an open source contributor. We hope it's the first of many.
 
 After you submit a contribution, one of the following will happen:
 
-### 😭 You don't get a response.
+### 😭 شما جوابی دریافت نمی کنید.
 
 Hopefully you [checked the project for signs of activity](#a-checklist-before-you-contribute) before making a contribution. Even on an active project, however, it's possible that your contribution won't get a response.
 
@@ -507,7 +507,7 @@ If you haven't gotten a response in over a week, it's fair to politely respond i
 
 If you make a polite bump and still nobody responds, it's possible that nobody will respond, ever. It's not a great feeling, but don't let that discourage you. It's happened to everyone! There are many possible reasons why you didn't get a response, including personal circumstances that may be out of your control. Try to find another project or way to contribute. If anything, this is a good reason not to invest too much time in making a contribution before other community members are engaged and responsive.
 
-### 🚧 Someone requests changes to your contribution.
+### 🚧 کسی درخواست تغییری در مشارکت شما داده است.
 
 It's common that you'll be asked to make changes to your contribution, whether that's feedback on the scope of your idea, or changes to your code.
 
