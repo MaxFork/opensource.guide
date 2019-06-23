@@ -519,10 +519,10 @@ If you don't have time to work on the issue anymore (for example, if the convers
 
 Your contribution may or may not be accepted in the end. Hopefully you didn't put too much work into it already. If you're not sure why it wasn't accepted, it's perfectly reasonable to ask the maintainer for feedback and clarification. Ultimately, however, you'll need to respect that this is their decision. Don't argue or get hostile. You're always welcome to fork and work on your own version if you disagree!
 
-### 🎉 Your contribution gets accepted.
+### 🎉 مشارکت شما پذیرفته شد
 
-Hooray! You've successfully made an open source contribution!
+هورا! شما با موفقیت یک منبع منبع باز ایجاد کرده اید!
 
-## You did it!
+## توانجامش دادی!
 
-Whether you just made your first open source contribution, or you're looking for new ways to contribute, we hope you're inspired to take action. Even if your contribution wasn't accepted, don't forget to say thanks when a maintainer put effort into helping you. Open source is made by people like you: one issue, pull request, comment, or high-five at a time.
+این که آیا شما برای اولین بار سهمیه منبع باز خود را ایجاد کرده اید یا به دنبال روش های جدید برای کمک هستید، امیدواریم که شما الهام بخش اقدامات خود باشید. حتی اگر مشارکت شما پذیرفته نشود فراموش نکنید که وقتی یک نگهدارنده تلاش می کند تا به شما کمک کند، می گویند. منبع باز از سوی افرادی مانند شما ساخته شده است: یک مسئله، درخواست درخواست، نظر، و یا بالا پنج در یک زمان.
