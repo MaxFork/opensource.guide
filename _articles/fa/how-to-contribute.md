@@ -229,7 +229,7 @@ You can also use one of the following resources to help you discover and contrib
 
 When you've found a project you'd like to contribute to, do a quick scan to make sure that the project is suitable for accepting contributions. Otherwise, your hard work may never get a response.
 
-Here's a handy checklist to evaluate whether a project is good for new contributors.
+در اینجا یک لیست پیشنهادی برای ارزیابی اینکه آیا یک پروژه برای شرکت کنندگان جدید مفید است یا خیر.
 
 **Meets the definition of open source**
 
@@ -341,33 +341,33 @@ Look at the commit activity on the master branch. On GitHub, you can see this in
 
 **پروژه استقبال می کند**
 
-A project that is friendly and welcoming signals that they will be receptive to new contributors.
+یک پروژه که دوستانه است و از مشارکت کنندگان استقبال می کند یا شرکت کنندگان پذیرش می کنند.
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox14" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox14" class="overflow-hidden d-block text-normal">
-    Do the maintainers respond helpfully to questions in issues?
+    آیا نگهبانان به پرسش های مسائل پاسخگو هستند؟
   </label>
 </div>
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox15" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox15" class="overflow-hidden d-block text-normal">
-    Are people friendly in the issues, discussion forum, and chat (for example, IRC or Slack)?
+    آیا افراد در مسائل، بحث و گفتگو و چت (به عنوان مثال IRC یا Slack) دوستانه هستند؟
   </label>
 </div>
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox16" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox16" class="overflow-hidden d-block text-normal">
-    Do pull requests get reviewed?
+    آیا درخواست های تغییر و مشارکت بررسی می شود؟
   </label>
 </div>
 
 <div class="clearfix mb-4">
   <input type="checkbox" id="cbox17" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox17" class="overflow-hidden d-block text-normal">
-    Do maintainers thank people for their contributions?
+    آیا نگهبانان از کمک های مردم و مشارکت کنندگان تشکر می کنند؟
   </label>
 </div>
 
@@ -381,7 +381,7 @@ A project that is friendly and welcoming signals that they will be receptive to 
 
 ## چگونه مشارکت خود را برای یک پروژه ارسال کنید
 
-You've found a project you like, and you're ready to make a contribution. Finally! Here's how to get your contribution in the right way.
+شما یک پروژه را که دوست دارید پیدا کرده اید و آماده کمک به آن هستید تا در آن مشارکتی کنید. در نهایت! حال چگونه می توانید سهم خود را در راه درست به دست آورید:
 
 ### ارتباط موثر
 
@@ -459,11 +459,11 @@ If you want to make a substantial contribution, open an issue to ask before work
 
 ### افتتاح یک مسئله
 
-You should usually open an issue in the following situations:
+شما معمولا باید یک مشکل و مسئله را در شرایط زیر ایجاد کنید:
 
-* Report an error you can't solve yourself
-* Discuss a high-level topic or idea (for example, community, vision or policies)
-* Propose a new feature or other project idea
+* گزارش خطایی را که نمیتوانید خودتان را حل کنید
+* بحث در مورد موضوع یا ایده سطح بالا (به عنوان مثال، جامعه، چشم انداز یا سیاست ها)
+* پیشنهاد یک ویژگی جدید یا ایده در مورد پروژه  
 
 نکاتی برای ارتباط با افراد در ایجاد مسائل:
 
@@ -473,7 +473,7 @@ You should usually open an issue in the following situations:
 
 ### باز کردن درخواست تغییر
 
-You should usually open a pull request in the following situations:
+شما معمولا باید درخواست مشارکت خود و تغییرات تان را در زیر زیر ارسال کنید:
 
 * Submit trivial fixes (for example, a typo, a broken link or an obvious error)
 * Start work on a contribution that was already asked for, or that you've already discussed, in an issue
@@ -509,11 +509,11 @@ If you make a polite bump and still nobody responds, it's possible that nobody w
 
 ### 🚧 کسی درخواست تغییری در مشارکت شما داده است.
 
-It's common that you'll be asked to make changes to your contribution, whether that's feedback on the scope of your idea, or changes to your code.
+شایان ذکر است که از شما خواسته می شود تا مشارکت های خود تغییر دهید، چه این بازخورد در مورد ایده شما باشد، یا در تغییر کد شما.
+(ممکن است آنها پیشنهادی برای بهبود یا ارتقای کیفی یا کمیت کد شما دارند)
 
-When someone requests changes, be responsive. They've taken the time to review your contribution. Opening a PR and walking away is bad form. If you don't know how to make changes, research the problem, then ask for help if you need it.
+اگر زمان زیادی برای انجام این کار در اختیار ندارید (مثلا اگر گفتگو برای چند ماه ادامه داشته باشد و شرایط شما تغییر کرده است)، به نگهدارنده ها بگویید تا بدانند و منتظر پاسخ نباشد. کسی دیگر ممکن است خوششانس باشد.
 
-If you don't have time to work on the issue anymore (for example, if the conversation has been going on for months, and your circumstances have changed), let the maintainer know so they're not expecting a response. Someone else may be happy to take over.
 
 ### 👎 مشارکت شما پذیرفته نشد
 
