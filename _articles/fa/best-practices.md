@@ -1,14 +1,14 @@
 ---
 lang: en
-title: Best Practices for Maintainers
-description: Making your life easier as an open source maintainer, from documenting processes to leveraging your community.
+title: بهترین تمرین برای نگهدارنده ها
+description: با فرایندهای مستند سازی برای استفاده از جامعه زندگی خود را به عنوان یک نگهدارنده منبع باز آسانتر کنید.
 class: best-practices
 toc:
-  what-does-it-mean-to-be-a-maintainer: "What does it mean to be a maintainer?"
-  documenting-your-processes: "Documenting your processes"
-  learning-to-say-no: "Learning to say no"
-  leverage-your-community: "Leverage your community"
-  bring-in-the-robots: "Bring in the robots"
+  what-does-it-mean-to-be-a-maintainer: "منظور شما از نگهدارنده چيست؟"
+  documenting-your-processes: "مستند سازی فرآیندهای شما"
+  learning-to-say-no: "یادگیری برای گفتن نه"
+  leverage-your-community: "استفاده از جامعه خود"
+  bring-in-the-robots: "از ربات ها استفاده کنید"
   its-okay-to-hit-pause: "It’s okay to hit pause"
 order: 5
 image: /assets/images/cards/best-practices.png
@@ -17,19 +17,20 @@ related:
   - leadership
 ---
 
-## What does it mean to be a maintainer?
+## منظور شما از نگهدارنده چيست؟
 
-If you maintain an open source project that a lot of people use, you may have noticed you're coding less and responding to issues more.
+اگر یک پروژه منبع باز داشته باشید که بسیاری از مردم آن را استفاده می کنند، ممکن است متوجه شده باشید که کمتر برنامه نویسی می کنید و به مسائلی بیشتر پاسخ می دهید.
+ 
+در مراحل اولیه یک پروژه، شما با ایده های جدید و تصمیم گیری بر اساس آنچه که می خواهید، آزمایش می کنید و هنگامی که پروژه  محبوبیت بیشتری بدست می آورد. شما خودتان را با کاربران و همکاران خود بیشتر مشغول کرده اید.
+ 
+نگهداری یک پروژه نیاز به بیش از کد دارد. این وظایف اغلب غیر منتظره هستند، اما آنها به همان اندازه برای یک پروژه در حال رشد اهمیت دارند. ما چند راه را برای ساده تر شدن زندگی خود از فرآیند مستند سازی برای استفاده از جامعه خود به دست آورده ایم.
+ 
 
-In the early stages of a project, you're experimenting with new ideas and making decisions based on what you want. As your project increases in popularity, you'll find yourself working with your users and contributors more.
+## مستند سازی فرآیندهای شما
 
-Maintaining a project requires more than code. These tasks are often unexpected, but they're just as important to a growing project. We've gathered a few ways to make your life easier, from documenting processes to leveraging your community.
-
-## Documenting your processes
-
-Writing things down is one of the most important things you can do as a maintainer.
-
-Documentation not only clarifies your own thinking, but it helps other people understand what you need or expect, before they even ask.
+نوشتن چیزها یکی از مهمترین چیزهایی است که می توانید به عنوان نگهدارنده انجام دهید.
+ 
+مستندات نه تنها تفکر خودتان را روشن می کند، بلکه به دیگران کمک می کند تا آنچه را که نیاز دارند یا انتظار می برند قبل از اینکه حتی بخواهند درک کنند.
 
 Writing things down makes it easier to say no when something doesn't fit into your scope. It also makes it easier for people to pitch in and help. You never know who might be reading or using your project.
 
@@ -82,7 +83,7 @@ If you meet with other maintainers, or make a major decision in private, documen
 
 That way, anybody who joins your community will have access to the same information as someone who's been there for years.
 
-## Learning to say no
+## یادگیری برای گفتن نه
 
 You've written things down. Ideally, everybody would read your documentation, but in reality, you'll have to remind others that this knowledge exists.
 
@@ -164,7 +165,7 @@ Maybe someone in your community regularly submits contributions that don't meet 
 
 If you see that someone is enthusiastic about your project, but needs a bit of polish, be patient. Explain clearly in each situation why their contributions don't meet the expectations of the project. Try pointing them to an easier or less ambiguous task, like an issue marked _"good first issue,"_ to get their feet wet. If you have time, consider mentoring them through their first contribution, or find someone else in your community who might be willing to mentor them.
 
-## Leverage your community
+## استفاده از جامعه خود
 
 You don't have to do everything yourself. Your project's community exists for a reason! Even if you don't yet have an active contributor community, if you have a lot of users, put them to work.
 
@@ -210,7 +211,7 @@ The same applies to a user who really wants a solution that you simply don't hav
 
 > It's almost inevitable that once a project becomes big, maintainers have to become a lot more conservative about how they introduce new code. You become good at saying "no", but a lot of people have legitimate needs. So, instead you end up converting your tool into a platform.
 
-## Bring in the robots
+## از ربات ها استفاده کنید
 
 Just as there are tasks that other people can help you with, there are also tasks that no human should ever have to do. Robots are your friend. Use them to make your life as a maintainer easier.
 
@@ -281,3 +282,5 @@ Taking breaks applies to more than just vacations, too. If you don't want to do 
 ## Take care of yourself first!
 
 Maintaining a popular project requires different skills than the earlier stages of growth, but it's no less rewarding. As a maintainer, you'll practice leadership and personal skills on a level that few people get to experience. While it's not always easy to manage, setting clear boundaries and only taking on what you're comfortable with will help you stay happy, refreshed, and productive.
+GET | 302 | 30m 802 ms | GitHub.com
+GET | 200 | 30m 473 ms
