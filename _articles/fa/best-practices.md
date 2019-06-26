@@ -61,14 +61,14 @@ For example, @lord discovered that having a project vision helped him figure out
 
 با این حال، قوانین خوب، صاحب نظران را مجاز به نوشتن و اجرای عادلانه می کنند. آنها را از انجام کاری که شما نمیخواهید انجام دهید، جلوگیری کنید.
 
-Most people who come across your project don't know anything about you or your circumstances. They may assume you get paid to work on it, especially if it's something they regularly use and depend on. Maybe at one point you put a lot of time into your project, but now you're busy with a new job or family member.
+اکثر افرادی که در پروژه شما شرکت می کنند چیزی در مورد شما یا شرایط شما نمی دانند. آنها ممکن است فرض کنند شما به کار بر روی آن می پردازید، مخصوصا اگر چیزی است که به طور مرتب استفاده می کنید و به آن وابسته است. شاید قبلا شما زمان زیادی را در پروژه خود قرار داده باشید, اما اکنون مشغول کار جدید یا عضو خانواده هستید.
 
 همه این کاملا درست است! فقط مطمئن شویم که دیگران در مورد آن می دانند.
  
-If maintaining your project is part-time or purely volunteered, be honest about how much time you have. This is not the same as how much time you think the project requires, or how much time others want you to spend.
-
-Here are a few rules that are worth writing down:
-
+اگر حفظ پروژه شما در حالت نیمه وقت یا صرفا داوطلبانه باشد، در مورد اینکه چقدر وقت دارید، صادق باشید. این همان چیزی نیست که شما فکر می کنید که پروژه نیاز دارد یا زمان زیادی را صرف می کنید که دیگران می خواهند صرف کنند.
+ 
+در  اینجا چند قانون است که ارزش نوشتن دارند:
+ 
 * How a contribution is reviewed and accepted (_Do they need tests? An issue template?_)
 * The types of contributions you'll accept (_Do you only want help with a certain part of your code?_)
 * When it's appropriate to follow up (_for example, "You can expect a response from a maintainer within 7 days. If you haven't heard anything by then, feel free to ping the thread."_)
@@ -76,8 +76,8 @@ Here are a few rules that are worth writing down:
 
 [Jekyll](https://github.com/jekyll/jekyll/tree/master/docs), [CocoaPods](https://github.com/CocoaPods/CocoaPods/wiki/Communication-&-Design-Rules), and [Homebrew](https://github.com/Homebrew/brew/blob/bbed7246bc5c5b7acb8c1d427d10b43e090dfd39/docs/Maintainers-Avoiding-Burnout.md) are several examples of projects with ground rules for maintainers and contributors.
 
-### Keep communication public
-
+### برقراری ارتباط را شفاف و عمومی حفظ کنید
+ 
 Don't forget to document your interactions, too. Wherever you can, keep communication about your project public. If somebody tries to contact you privately to discuss a feature request or support need, politely direct them to a public communication channel, such as a mailing list or issue tracker.
 
 If you meet with other maintainers, or make a major decision in private, document these conversations in public, even if it's just posting your notes.
