@@ -32,9 +32,10 @@ related:
  
 مستندات نه تنها تفکر خودتان را روشن می کند، بلکه به دیگران کمک می کند تا آنچه را که نیاز دارند یا انتظار می برند قبل از اینکه حتی بخواهند درک کنند.
 
-Writing things down makes it easier to say no when something doesn't fit into your scope. It also makes it easier for people to pitch in and help. You never know who might be reading or using your project.
+نوشتن باعث می شود تا وقتی که چیزی در محدوده شما متناسب نیست،  ساده تر می گویند نه. همچنین مردم را در مسیر حرکت و کمک قرار می دهد. شما هرگز نمی دانید چه کسی ممکن است متن را بخواند یا از پروژه شما استفاده کند.
 
-Even if you don't use full paragraphs, jotting down bullet points is better than not writing at all.
+حتی اگر شما از پاراگراف های کامل استفاده نکنید، پرداخت به نقاط مختلف کار بهتر است تا هیچی نباشد.
+ 
 
 Remember to keep your documentation up-to-date. If you're not able to always do this, delete your outdated documentation or indicate it is outdated so contributors know updates are welcome.
 
