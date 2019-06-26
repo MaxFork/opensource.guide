@@ -37,13 +37,13 @@ related:
 حتی اگر شما از پاراگراف های کامل استفاده نکنید، پرداخت به نقاط مختلف کار بهتر است تا هیچی نباشد.
  
 
-Remember to keep your documentation up-to-date. If you're not able to always do this, delete your outdated documentation or indicate it is outdated so contributors know updates are welcome.
-
-### Write down your project's vision
-
-Start by writing down the goals of your project. Add them to your README, or create a separate file called VISION. If there are other artifacts that could help, like a project roadmap, make those public as well.
-
-Having a clear, documented vision keeps you focused and helps you avoid "scope creep" from others' contributions.
+ یاد داشته باشید که مستندات خود را به روز نگه دارید. اگر نتوانید همیشه این کار را انجام دهید، مستندات قدیمی را حذف کنید یا نشان دهید که از بین رفته است، بنابراین همکاران می دانند که به نیاز به کار و روزرسانی روی آنها وجود دارد.
+ 
+### دیدگاه پروژه خود را بنویسید
+ 
+ با نوشتن اهداف پروژه خود شروع کنید. آنها را به README خود اضافه کنید یا فایل جداگانه ای به نام "دیدگاه" ایجاد کنید. اگر مصنوعات دیگری وجود داشته باشد که می تواند به آن کمک کند، مانند یک نقشه راه پروژه، آن را نیز عمومی کند.
+ 
+داشتن چشم انداز روشن و مستند، شما را متمرکز می کند و به شما کمک می کند تا از "دامن زدن" از مشارکت دیگران جلوگیری کنید.
 
 For example, @lord discovered that having a project vision helped him figure out which requests to spend time on. As a new maintainer, he regretted not sticking to his project's scope when he got his first feature request for [Slate](https://github.com/lord/slate).
 
@@ -55,16 +55,16 @@ For example, @lord discovered that having a project vision helped him figure out
   </p>
 </aside>
 
-### Communicate your expectations
+### انتظارات خود را بیان کنید
 
-Rules can be nerve-wracking to write down. Sometimes you might feel like you're policing other people's behavior or killing all the fun.
+قوانین میتوانند علامت گذاری شوند. گاهی اوقات ممکن است احساس کنید که رفتار و رفتار دیگران را کنترل می کنید یا همه سرگرمی ها را از بین میبرید.
 
-Written and enforced fairly, however, good rules empower maintainers. They prevent you from getting dragged into doing things you don't want to do.
+با این حال، قوانین خوب، صاحب نظران را مجاز به نوشتن و اجرای عادلانه می کنند. آنها را از انجام کاری که شما نمیخواهید انجام دهید، جلوگیری کنید.
 
 Most people who come across your project don't know anything about you or your circumstances. They may assume you get paid to work on it, especially if it's something they regularly use and depend on. Maybe at one point you put a lot of time into your project, but now you're busy with a new job or family member.
 
-All of this is perfectly okay! Just make sure other people know about it.
-
+همه این کاملا درست است! فقط مطمئن شویم که دیگران در مورد آن می دانند.
+ 
 If maintaining your project is part-time or purely volunteered, be honest about how much time you have. This is not the same as how much time you think the project requires, or how much time others want you to spend.
 
 Here are a few rules that are worth writing down:
