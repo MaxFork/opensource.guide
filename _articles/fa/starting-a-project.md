@@ -364,6 +364,6 @@ If you're a company or organization:
   </label>
 </div>
 
-## You did it!
+## توانجامش دادی!
 
-Congratulations on open sourcing your first project. No matter the outcome, working in public is a gift to the community. With every commit, comment, and pull request, you're creating opportunities for yourself and for others to learn and grow.
+تبریک می گوییم که روی اولین پروژه خود کار کردید. مهمنتیجه  نیست، کار شما هدیه ای برای جامعه است. با هر تعهد، نظر و درخواست، شما فرصت هایی برای خود و دیگران برای یادگیری و رشد ایجاد می کنید.
