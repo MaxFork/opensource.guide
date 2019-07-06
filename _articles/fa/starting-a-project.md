@@ -268,9 +268,9 @@ It isn't necessary to write a style guide for your project when you're just star
 
 ## چک لیست شما برای قبل از راه اندازی
 
-Ready to open source your project? Here's a checklist to help. Check all the boxes? You're ready to go! [Click "publish"](https://help.github.com/articles/making-a-private-repository-public/) and pat yourself on the back.
+آماده برای باز کردن منبع پروژه خود هستید؟ در اینجا یک چک لیست برای کمک به شما است. همه جعبه ها را چک کنید؟ شما آماده هستی [برو روی "انتشار" کلیک کنید](https://help.github.com/articles/making-a-private-repository-public/)  و خودتان را در پشت بگذارید.
 
-**Documentation**
+**مستندات**
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox1" class="d-block float-left mt-1 mr-2" value="checkbox">
@@ -300,7 +300,7 @@ Ready to open source your project? Here's a checklist to help. Check all the box
   </label>
 </div>
 
-**Code**
+**کد**
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox5" class="d-block float-left mt-1 mr-2" value="checkbox">
