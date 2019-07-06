@@ -268,35 +268,35 @@ It isn't necessary to write a style guide for your project when you're just star
 
 ## چک لیست شما برای قبل از راه اندازی
 
-آماده برای باز کردن منبع پروژه خود هستید؟ در اینجا یک چک لیست برای کمک به شما است. همه جعبه ها را چک کنید؟ شما آماده هستی [برو روی "انتشار" کلیک کنید](https://help.github.com/articles/making-a-private-repository-public/)  و خودتان را در پشت بگذارید.
+آماده برای باز کردن منبع پروژه خود هستید؟ در اینجا یک چک لیست برای کمک به شما است. همه جعبه ها را چک کنید؟ شما آماده هستی [برو روی انتشار کلیک کنید](https://help.github.com/articles/making-a-private-repository-public/)  و خودتان را در پشت بگذارید.
 
 **مستندات**
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox1" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox1" class="overflow-hidden d-block text-normal">
-    Project has a LICENSE file with an open source license
+    پروژه یک پرونده LICENSE با مجوز منبع باز دارد
   </label>
 </div>
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox2" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox2" class="overflow-hidden d-block text-normal">
-    Project has basic documentation (README, CONTRIBUTING, CODE_OF_CONDUCT)
+    پروژه اسنادی اساسی دارد (README، CONTRIBUTING، CODE_OF_CONDUCT)
   </label>
 </div>
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox3" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox3" class="overflow-hidden d-block text-normal">
-    The name is easy to remember, gives some idea of what the project does, and does not conflict with an existing project or infringe on trademarks
-  </label>
+نام آسان به سادگی به خاطر می ماند و ایده هایی از پروژه به افراد انتقال می دهد و با پروژه های موجود قبلی درگیری ندارند و علائم تجاری را نقض نمی کند.
+</label>
 </div>
 
 <div class="clearfix mb-4">
   <input type="checkbox" id="cbox4" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox4" class="overflow-hidden d-block text-normal">
-    The issue queue is up-to-date, with issues clearly organized and labeled
+    مشکلات به روز شده است، با موضوع های مختلفی به وضوح سازمان یافته و برچسب گذاری شده اند.
   </label>
 </div>
 
@@ -305,14 +305,14 @@ It isn't necessary to write a style guide for your project when you're just star
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox5" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox5" class="overflow-hidden d-block text-normal">
-    Project uses consistent code conventions and clear function/method/variable names
+    پروژه از قانون پایداری برای کد ها پیروی می کند. برای نامهای تابع / روش / متغیر ها
   </label>
 </div>
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox6" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox6" class="overflow-hidden d-block text-normal">
-    The code is clearly commented, documenting intentions and edge cases
+    کد به وضوح توضیح داده شده است، مستند سازی اهداف و ...
   </label>
 </div>
 
