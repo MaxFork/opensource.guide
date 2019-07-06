@@ -1,7 +1,7 @@
 ---
 lang: en
-title: Starting an Open Source Project
-description: Learn more about the world of open source and get ready to launch your own project.
+title: شروع یک پروژه منبع باز
+description: درباره دنیای منبع باز بیشتر بیاموزید و آماده باشید تا پروژه خود را راه اندازی کنید.
 class: beginners
 toc:
   the-what-and-why-of-open-source: "The what and why of open source"
