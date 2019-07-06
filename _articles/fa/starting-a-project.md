@@ -1,14 +1,14 @@
 ---
-lang: en
-title: Starting an Open Source Project
-description: Learn more about the world of open source and get ready to launch your own project.
+lang: fa
+title: شروع یک پروژه منبع باز
+description: درباره دنیای منبع باز بیشتر بیاموزید و آماده باشید تا پروژه خود را راه اندازی کنید.
 class: beginners
 toc:
-  the-what-and-why-of-open-source: "The what and why of open source"
-  should-i-launch-my-own-open-source-project: "Should I launch my own open source project?"
-  launching-your-own-open-source-project: "Launching your own open source project"
-  naming-and-branding-your-project: "Naming and branding your project"
-  your-pre-launch-checklist: "Your pre-launch checklist"
+  the-what-and-why-of-open-source: "چه چیزی و چرا منبع باز"
+  should-i-launch-my-own-open-source-project: "باید پروژه منبع باز خودم را راه اندازی کنم؟"
+  launching-your-own-open-source-project: "راه اندازی پروژه منبع باز خودتان"
+  naming-and-branding-your-project: "نام گذاری و برندینگ پروژه تان"
+  your-pre-launch-checklist: "چک لیست شما برای قبل از راه اندازی"
 order: 2
 image: /assets/images/cards/beginner.png
 related:
@@ -63,7 +63,7 @@ Because [an open source license requires](https://opensource.org/osd-annotated) 
 
 As a result, most open source projects are free, but "free of charge" is not part of the open source definition. There are ways to charge for open source projects indirectly through dual licensing or limited features, while still complying with the official definition of open source.
 
-## Should I launch my own open source project?
+## باید پروژه منبع باز خودم را راه اندازی کنم؟
 
 The short answer is yes, because no matter the outcome, launching your own project is a great way to learn how open source works.
 
@@ -111,7 +111,7 @@ If your goal is to learn how to collaborate with others or understand how open s
 
 If you're not sure how to get started as a contributor, check out our [How to Contribute to Open Source guide](../how-to-contribute/).
 
-## Launching your own open source project
+## راه اندازی پروژه منبع باز خودتان
 
 There is no perfect time to open source your work. You can open source an idea, a work in progress, or after years of being closed source.
 
@@ -219,7 +219,7 @@ Much like open source licenses, there are also emerging standards for codes of c
 
 Paste the text directly into a CODE_OF_CONDUCT file in your repository. Keep the file in your project's root directory so it's easy to find, and link to it from your README.
 
-## Naming and branding your project
+## نام گذاری و برندینگ پروژه تان
 
 Branding is more than a flashy logo or catchy project name. It's about how you talk about your project, and who you reach with your message.
 
@@ -266,53 +266,53 @@ Beyond how you write words, your coding style may also become part of your proje
 
 It isn't necessary to write a style guide for your project when you're just starting out, and you may find that you enjoy incorporating different coding styles into your project anyway. But you should anticipate how your writing and coding style might attract or discourage different types of people. The earliest stages of your project are your opportunity to set the precedent you wish to see.
 
-## Your pre-launch checklist
+## چک لیست شما برای قبل از راه اندازی
 
-Ready to open source your project? Here's a checklist to help. Check all the boxes? You're ready to go! [Click "publish"](https://help.github.com/articles/making-a-private-repository-public/) and pat yourself on the back.
+آماده برای باز کردن منبع پروژه خود هستید؟ در اینجا یک چک لیست برای کمک به شما است. همه جعبه ها را چک کنید؟ شما آماده هستی [برو روی انتشار کلیک کنید](https://help.github.com/articles/making-a-private-repository-public/)  و خودتان را در پشت بگذارید.
 
-**Documentation**
+**مستندات**
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox1" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox1" class="overflow-hidden d-block text-normal">
-    Project has a LICENSE file with an open source license
+    پروژه یک پرونده LICENSE با مجوز منبع باز دارد
   </label>
 </div>
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox2" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox2" class="overflow-hidden d-block text-normal">
-    Project has basic documentation (README, CONTRIBUTING, CODE_OF_CONDUCT)
+    پروژه اسنادی اساسی دارد (README، CONTRIBUTING، CODE_OF_CONDUCT)
   </label>
 </div>
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox3" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox3" class="overflow-hidden d-block text-normal">
-    The name is easy to remember, gives some idea of what the project does, and does not conflict with an existing project or infringe on trademarks
-  </label>
+نام آسان به سادگی به خاطر می ماند و ایده هایی از پروژه به افراد انتقال می دهد و با پروژه های موجود قبلی درگیری ندارند و علائم تجاری را نقض نمی کند.
+</label>
 </div>
 
 <div class="clearfix mb-4">
   <input type="checkbox" id="cbox4" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox4" class="overflow-hidden d-block text-normal">
-    The issue queue is up-to-date, with issues clearly organized and labeled
+    مشکلات به روز شده است، با موضوع های مختلفی به وضوح سازمان یافته و برچسب گذاری شده اند.
   </label>
 </div>
 
-**Code**
+**کد**
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox5" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox5" class="overflow-hidden d-block text-normal">
-    Project uses consistent code conventions and clear function/method/variable names
+    پروژه از قانون پایداری برای کد ها پیروی می کند. برای نامهای تابع / روش / متغیر ها
   </label>
 </div>
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox6" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox6" class="overflow-hidden d-block text-normal">
-    The code is clearly commented, documenting intentions and edge cases
+    کد به وضوح توضیح داده شده است، مستند سازی اهداف و ...
   </label>
 </div>
 
@@ -323,37 +323,37 @@ Ready to open source your project? Here's a checklist to help. Check all the box
   </label>
 </div>
 
-**People**
+**افراد**
 
-If you're an individual:
+اگر فردی هستید:
 
 <div class="clearfix mb-4">
   <input type="checkbox" id="cbox8" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox8" class="overflow-hidden d-block text-normal">
-  You've talked to the legal department and/or understand the IP and open source policies of your company (if you're an employee somewhere)
+    شما باید با بخش حقوقی شرکت صحبت کرده باشید یا در مورد IP و سیاست های اوپن سورس شرکت خود برانید. (اگر شما یک کارمندی در جایی هستید)
   </label>
 </div>
 
-If you're a company or organization:
+اگر شما یک شرکت یا سازمان هستید:
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox9" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox9" class="overflow-hidden d-block text-normal">
-    You've talked to your legal department
+    شما با بخش قانونی خود صحبت کرده اید
   </label>
 </div>
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox10" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox10" class="overflow-hidden d-block text-normal">
-    You have a marketing plan for announcing and promoting the project
+شما یک طرح بازاریابی برای اعلام و تبلیغ پروژه دارید
   </label>
 </div>
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox11" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox11" class="overflow-hidden d-block text-normal">
-    Someone is committed to managing community interactions (responding to issues, reviewing and merging pull requests)
+کسی متعهد به مدیریت تعاملات اجتماعی است (پاسخ به مسائل، بررسی و ادغام درخواست های بیهوده)
   </label>
 </div>
 
@@ -361,9 +361,10 @@ If you're a company or organization:
   <input type="checkbox" id="cbox12" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox12" class="overflow-hidden d-block text-normal">
     At least two people have administrative access to the project
+    حداقل دو نفر دسترسی اداری به این پروژه دارند
   </label>
 </div>
 
-## You did it!
+## توانجامش دادی!
 
-Congratulations on open sourcing your first project. No matter the outcome, working in public is a gift to the community. With every commit, comment, and pull request, you're creating opportunities for yourself and for others to learn and grow.
+تبریک می گوییم که روی اولین پروژه خود کار کردید. نتیجه مهم نیست، کار شما هدیه ای برای جامعه است. با هر تعهد، نظر و درخواست، شما فرصت هایی برای خود و دیگران برای یادگیری و رشد ایجاد می کنید.
